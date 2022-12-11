@@ -24,10 +24,5 @@ function finderName(name,list) {
 console.log(check.toString() + " " + position)
 }
 
-
-//antes de cerrar la función, añadimos la posición 
-
-
 finderName("Natasha",nameFinder)
 
-//cómo evitar que de toda la vuelta y me ponga 20 false????
